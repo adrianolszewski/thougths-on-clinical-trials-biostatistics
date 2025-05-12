@@ -531,7 +531,8 @@ a violation of a certain assumption(s) was big enough to affect the
 inference greatly. Often it is not and the different methods, despite
 some variability in outcomes, will be yield consistent results.
 
-![obraz](https://github.com/user-attachments/assets/55f8d0bd-23e8-454b-95d7-b50f34c058d9)
+![obraz](https://github.com/user-attachments/assets/89c7a840-c347-4094-bb55-51e24e32a4e2)
+
 Examples of sensitivity analyses
 
 And if the results are not consistent at the boundary of the
