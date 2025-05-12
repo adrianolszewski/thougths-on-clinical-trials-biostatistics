@@ -77,7 +77,7 @@ implementing the ideas from
 [https://www.estimationstats.com](https://www.estimationstats.com/#/))
 and coloured confidence bands.
 
-![obraz](https://github.com/user-attachments/assets/ae47f077-cdd1-4ee4-a478-9e71a8909e6f)
+![obraz](https://github.com/user-attachments/assets/880e72c0-8a04-415c-b13b-6947f3c45b3b)
 
 Examples of the interval estimation (Gardner-Altman) plots; generated
 with the R dabestr package
@@ -156,7 +156,7 @@ article about this process [The Three Deadly Threats to a Clinical
 Trial](https://www.2kmm.pl/blog/The-Three-Deadly-Threats-to-a-Clinical-Trial/)
 on our blog.
 
-![obraz](https://github.com/user-attachments/assets/e23b6301-2a56-4806-8b4c-fa3005d67bfe)
+![obraz](https://github.com/user-attachments/assets/4e3a405e-42a1-4dc7-9d64-73f6aee7cf1f)
 
 So, at the end of this process we have established:
 
