@@ -79,7 +79,7 @@ implementing the ideas from
 [https://www.estimationstats.com](https://www.estimationstats.com/#/))
 and coloured confidence bands.
 
-![obraz](https://github.com/user-attachments/assets/880e72c0-8a04-415c-b13b-6947f3c45b3b)
+![obraz](https://github.com/user-attachments/assets/8ebe0f79-67f7-46d7-ac98-9c179716375a)
 
 Examples of the interval estimation (Gardner-Altman) plots; generated
 with the R dabestr package
