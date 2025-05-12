@@ -14,6 +14,10 @@
 
 > You probably heard about the Anscombe's quartet. It's almost a textbook justification for looking at the data first and not trusting solely descriptive statistics. I decided to make my own, Olszewski's quartet. It shows 4 faces in different moods. The mean and variance of the Y coordinate is exactly (NOT approximately!) the same for all 4 faces. Also, the Pearson's correlation is almost 0.
 
-4. [The role of the frequentist framework, p-values, statistical (NHST) and practical significance (MCID) in randomised controlled (clinical) trials](https://github.com/adrianolszewski/thougths-on-clinical-trials-biostatistics/blob/main/the-role-of-frequentist-framework-pvalues-statistical-and-practical-significance-in-randomised-controlled-clinical-trials.md)
-
+4. **[The role of the frequentist framework, p-values, statistical (NHST) and practical significance (MCID) in randomised controlled (clinical) trials](https://github.com/adrianolszewski/thougths-on-clinical-trials-biostatistics/blob/main/the-role-of-frequentist-framework-pvalues-statistical-and-practical-significance-in-randomised-controlled-clinical-trials.md)**
+   
 > Despite frequent calls to “ban p-values” and “ditch/abandon statistical significance,” the NHST framework remains the primary (though not the only; Bayesians mark their presence as well) “engine” of inference in phase-3 randomised controlled clinical trials. Why is this and how is it used, given the well-known and - unfortunately - frequent abuses of this framework? What specific steps are taken to achieve reliable inference?
+
+5. **[Useful R codes](https://github.com/adrianolszewski/Useful-R-codes)**
+   
+   a. [Pooling EM-means (emmeans) objects in R (under multiple imputation via mice)](https://github.com/adrianolszewski/Useful-R-codes/blob/main/Pooling%20emmeans%20objects.md)
