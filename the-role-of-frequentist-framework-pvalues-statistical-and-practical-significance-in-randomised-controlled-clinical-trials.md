@@ -870,6 +870,9 @@ advantage of the frequency framework in this particular application.
 -   ***ASA President's Task Force Statement (2021) on Statistical
     Significance and Replicability:*** <https://lnkd.in/dtJ-tThh>
 
+    ![obraz](https://github.com/user-attachments/assets/110a28a9-be50-4513-9052-e50651618818)
+
+
 -   *ASA comment on a journal's ban on null hypothesis statistical
     testing*: <https://lnkd.in/dTawWF-V>
 
