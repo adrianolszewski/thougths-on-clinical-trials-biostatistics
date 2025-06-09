@@ -1,4 +1,4 @@
-# The role of the frequentist framework, p-values, statistical (NHST) and practical significance (MCID) in randomised controlled (clinical) trials
+# On the important role of the frequentist framework, p-values, statistical (NHST) and practical significance (MCID) in randomised controlled (clinical) trials
 
 _**Despite frequent calls to “ban p-values” and “ditch/abandon statistical significance,” the NHST framework remains the primary (though not the only; Bayesians mark their presence as well) “engine” of inference in phase-3 randomised controlled clinical trials. Why is this and how is it used, given the well-known and - unfortunately - frequent abuses of this framework? What specific steps are taken to achieve reliable inference?**_
 
