@@ -126,9 +126,15 @@ randomised), or if the practical importance is not known or difficult to
 determine (sometimes we need a variety of different scenarios to be
 covered, representing different conditions and the cost-effective
 balance), the old demons may be back. There exist solutions to that,
-like *matching algorithms (only mimicking true randomisation as limited
-to the features explicitly selected)*, *tipping point analyses* (we
-modify some parameters and assess how the results vary as its function).
+like:
+
+- **matching algorithms**, e.g. the PSM - _propensity score matching_ (PS: mind the current critique of it!). This one only mimicks randomisation, being limited to the features explicitly selected
+- **weighting** - e.g. IPTW - _inverse-probability treatment weighting_ (note as above)
+- **G-computation** leading to the counter-factual average marginal treatment effect
+
+...based on the variable selection coming from causal analyses (e.g. via _DAG - directed acyclic graphs_), if possible.
+
+Sensitivity analyses, like the **_tipping point_**, (where we modify some parameters and assess how the results vary as its function) are employed widely as well.
 
 ![obraz](https://github.com/user-attachments/assets/8095351e-b88c-4712-90eb-338b0f81916c)
 
